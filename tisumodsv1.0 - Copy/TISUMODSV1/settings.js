@@ -1,13 +1,13 @@
 require("./all/module.js")
 
 //========== Setting Owner ==========//
-global.owner = "6285603293225"
+global.owner = "2349114224240"
 global.namaowner = "𝐓𝐢𝐬𝐮𝐌𝐨𝐝𝐬/𝐇𝐢𝐥𝐦𝐚𝐧"
 
 //======== Setting Bot & Link ========//
 global.namabot = "𝐁𝐨𝐭 𝐓𝐢𝐬𝐮𝐌𝐨𝐝𝐬" 
 global.namabot2 = "𝐁𝐨𝐭 𝐓𝐢𝐬𝐮𝐌𝐨𝐝𝐬"
-global.ownerbot = "𝐓𝐢𝐬𝐮𝐌𝐨𝐝𝐬/𝐇𝐢𝐥𝐦𝐚𝐧"
+global.ownerbot = "𝐓𝐢𝐬𝐮𝐌𝐨𝐝𝐬/Chima"
 global.foother = "© 𝐂𝐨𝐩𝐲𝐫𝐢𝐠𝐡𝐭 𝐓𝐢𝐬𝐮𝐌𝐨𝐝𝐬"
 global.idsaluran = "-"
 global.linkgc = '-'
